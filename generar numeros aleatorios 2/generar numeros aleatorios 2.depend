@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406760885 source:c:\users\jair bonilla\desktop\celis\generar numeros aleatorios 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

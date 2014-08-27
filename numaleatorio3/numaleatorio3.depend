@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1406762254 source:c:\users\jair bonilla\desktop\celis\numaleatorio3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1406762254 source:c:\users\jair bonilla\desktop\progra2 1paarcial\numaleatorio3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1406762254 source:c:\users\jair bonilla\documents\github\programacion2\numaleatorio3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

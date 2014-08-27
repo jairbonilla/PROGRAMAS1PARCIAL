@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../progra2 1paarcial/ciclo wile/ciclo wile.cbp" />
+		<Project filename="../progra2 1paarcial/ciclo3/ciclo3.cbp" />
+		<Project filename="../progra2 1paarcial/ej 2 utlsnd ciclo/ej 2 utlsnd ciclo.cbp" />
+		<Project filename="../progra2 1paarcial/generar numeros aleatorios 2/generar numeros aleatorios 2.cbp" />
+		<Project filename="../progra2 1paarcial/num aleatorio/ num aleatorio.cbp" />
+		<Project filename="../progra2 1paarcial/num alrevez/num alrevez.cbp" />
+		<Project filename="../progra2 1paarcial/numaleatorio3/numaleatorio3.cbp" />
+		<Project filename="estructura for/estructura for.cbp" />
+		<Project filename="ciclo for2/ciclo for2.cbp" />
+		<Project filename="ciclo for tabla d mult/ciclo for tabla d mult.cbp" />
+		<Project filename="ciclos anidados/ciclos anidados.cbp" />
+		<Project filename="prueba2/prueba2.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

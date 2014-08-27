@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406675534 source:c:\users\jair bonilla\desktop\celis\ num aleatorio\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
